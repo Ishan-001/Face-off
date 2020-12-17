@@ -1,2 +1,2 @@
 # Face-off
-A simple FPS game
+A 3-D game controlled using hand gestures (under development).
